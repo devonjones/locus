@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Locus</string>
+    <string name="title_map_detail">Map Detail</string>
+    <string name="title_map_list">Maps</string>
+    <string name="default_pipeline">
+        {"@type":"edu.mit.media.funf.pipeline.BasicPipeline",
+         "name":"default",
+         "version":1,
+         "data":[
+            "edu.mit.media.funf.probe.builtin.WifiProbe"
+         ]
+        }
+    </string>
+</resources>
